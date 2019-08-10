@@ -1,13 +1,17 @@
-// 既定値を上書きするには、このファイル内にキー バインドを挿入します
+// Place your key bindings in this file to override the defaults
 [
-    { "key": "ctrl+shift+b",            "command": "cursorLeftSelect",
-        "when": "textInputFocus" },
-    { "key": "ctrl+shift+n",            "command": "cursorDownSelect",
-        "when": "textInputFocus" },
-    { "key": "ctrl+shift+p",            "command": "cursorUpSelect",
-        "when": "textInputFocus" },
-    { "key": "ctrl+shift+f",            "command": "cursorRightSelect",
-        "when": "textInputFocus" },
-    { "key": "ctrl+shift+e",       "command": "cursorEndSelect",
-        "when": "textInputFocus" }
+    { "key": "cmd+1","command": "workbench.action.openEditorAtIndex1" },
+    { "key": "cmd+2","command": "workbench.action.openEditorAtIndex2" },
+    { "key": "cmd+3","command": "workbench.action.openEditorAtIndex3" },
+    { "key": "cmd+4","command": "workbench.action.openEditorAtIndex4" },
+    { "key": "cmd+5","command": "workbench.action.openEditorAtIndex5" },
+    { "key": "cmd+6","command": "workbench.action.openEditorAtIndex6" },
+    { "key": "cmd+7","command": "workbench.action.openEditorAtIndex7" },
+    { "key": "cmd+8","command": "workbench.action.openEditorAtIndex8" },
+    { "key": "cmd+9","command": "workbench.action.openEditorAtIndex9" },
+    { "key": "ctrl+shift+b", "command": "cursorLeftSelect", "when": "textInputFocus" },
+    { "key": "ctrl+shift+n", "command": "cursorDownSelect", "when": "textInputFocus" },
+    { "key": "ctrl+shift+p", "command": "cursorUpSelect", "when": "textInputFocus" },
+    { "key": "ctrl+shift+f", "command": "cursorRightSelect", "when": "textInputFocus" },
+    { "key": "ctrl+shift+e", "command": "cursorEndSelect", "when": "textInputFocus" }
 ]
