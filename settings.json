@@ -1,0 +1,17 @@
+{
+    "workbench.editor.enablePreview": false,
+    "window.zoomLevel": 1,
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "[html]": {
+      "editor.renderWhitespace": true,
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+  }

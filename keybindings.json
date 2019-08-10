@@ -1,0 +1,13 @@
+// 既定値を上書きするには、このファイル内にキー バインドを挿入します
+[
+    { "key": "ctrl+shift+b",            "command": "cursorLeftSelect",
+        "when": "textInputFocus" },
+    { "key": "ctrl+shift+n",            "command": "cursorDownSelect",
+        "when": "textInputFocus" },
+    { "key": "ctrl+shift+p",            "command": "cursorUpSelect",
+        "when": "textInputFocus" },
+    { "key": "ctrl+shift+f",            "command": "cursorRightSelect",
+        "when": "textInputFocus" },
+    { "key": "ctrl+shift+e",       "command": "cursorEndSelect",
+        "when": "textInputFocus" }
+]
