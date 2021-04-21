@@ -10,7 +10,7 @@
       "editor.insertSpaces": true
     },
     "javascript.updateImportsOnFileMove.enabled": "always",
-    "editor.fontFamily": "'Fira Code', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "Hack Nerd Font, Menlo, Monaco, 'Courier New', monospace",
     "editor.fontLigatures": true,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
